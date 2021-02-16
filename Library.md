@@ -2,7 +2,7 @@
 
 ##  Java Maven, Spring Boot, JPA, PostgreSQL, Docker, Heroku.
 
-#### ![DB DIAGRAM](https://dbdiagram.io/d/602becd380d742080a3abef0)
+#### [DB DIAGRAM](https://dbdiagram.io/d/602becd380d742080a3abef0)
 
 #### AUTHOR
 | URL | HTTP | FUNCTIONALITY |
